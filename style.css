@@ -1,0 +1,9 @@
+ table tr td{
+  border: solid thin #ddd;
+  padding: 5px;
+}
+table tr th{
+  border: solid thin #ddd;
+  padding: 5px;
+} 
+

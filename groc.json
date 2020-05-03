@@ -1,0 +1,82 @@
+[
+  {
+    "number": "1",
+    "Name": "Milk",
+    "quantity": "1",
+    "department": "Grocery",
+    "unit": "litre",
+    "note": "good"
+  },
+  {
+    "number": "2",
+    "Name": "Sugar",
+    "quantity": "5",
+    "department": "Grocery",
+    "unit": "kg",
+    "note": "good"
+  },
+  {
+    "number": "3",
+    "Name": "Cheese",
+    "quantity": "2",
+    "department": "Grocery",
+    "unit": "packets",
+    "note": "good"
+  },
+  {
+    "number": "4",
+    "Name": "Rice",
+    "quantity": "10",
+    "department": "Grocery",
+    "unit": "kg",
+    "note": "good"
+  },
+  {
+    "number": "5",
+    "Name": "salt",
+    "quantity": "2",
+    "department": "Grocery",
+    "unit": "packets",
+    "note": "good"
+  },
+  {
+    "number": "6",
+    "Name": "juice",
+    "quantity": "2",
+    "department": "Grocery",
+    "unit": "litre",
+    "note": "good"
+  },
+  {
+    "number": "7",
+    "Name": "cookies",
+    "quantity": "2",
+    "department": "Grocery",
+    "unit": "packets",
+    "note": "good"
+  },
+  {
+    "number": "8",
+    "Name": "butter",
+    "quantity": "3",
+    "department": "Grocery",
+    "unit": "packets",
+    "note": "good"
+  },
+  {
+    "number": "9",
+    "Name": "tea powder",
+    "quantity": "1",
+    "department": "Grocery",
+    "unit": "kg",
+    "note": "good"
+  },
+  {
+    "number": "10",
+    "Name": "egg",
+    "quantity": "10",
+    "department": "Grocery",
+    "unit": "nos",
+    "note": "good"
+  }
+]
